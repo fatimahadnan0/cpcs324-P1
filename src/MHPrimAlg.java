@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 
 
 import java.util.*;
@@ -17,12 +13,7 @@ public class MHPrimAlg extends MSTAlgorithem {
 
     @Override
     public void DisplayResultingMST(LinkedList<edge> MSTresultList) {
-//         int cost = 0;
-//            for (int i = 1; i < graph.veticesNo; i++) {
-//         // edge edge = MSTresultList.get(i);
-//	   //cost += edge.weight;
-//            cost +=
-//            
+         
            System.out.println("Minimum Spanning Tree Cost to Min Heap : " +cost);
     }
        
